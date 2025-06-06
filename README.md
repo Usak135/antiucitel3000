@@ -77,7 +77,7 @@
   <div class="container">
     <section class="product-info">
       <h2>Malé chytré zařízení pro každý školní den</h2>
-      <p>AntiUčitel 3000 je nenápadná krabička, která rozezná příchod učitele a během vteřiny přepne mobil z TikToku nebo her na školní aplikace jako kalkulačka, poznámky či školní web.</p>
+      <p>AntiUčitel 3000 je nenápadná krabička, která rozezná příchod učitele a během vteřiny přepne mobil z TikToku nebo her na kalkulačku.</p>
       <p class="price">Cena: 349 Kč</p>
       <p><strong>Dostupné funkce:</strong></p>
       <ul>

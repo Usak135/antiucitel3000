@@ -89,7 +89,7 @@
     </section>
     <section class="order-form">
       <h2>Objednávkový formulář</h2>
-      <form action="https://formsubmit.co/tvuj@email.cz" method="POST">
+      <form action="https://formsubmit.co/z18106@santoska.cz" method="POST">
         <label for="name">Jméno a příjmení:</label>
         <input type="text" id="name" name="name" required>
 

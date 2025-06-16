@@ -111,6 +111,7 @@
         <!-- Skryté nastavení -->
         <input type="hidden" name="_subject" value="Nová objednávka AntiUčitel 3000!">
         <input type="hidden" name="_captcha" value="false">
+        <input type="hidden" name="_autoresponse" value="Děkujeme za objednávku AntiUčitel 3000! Brzy se vám ozveme. Pokud máte otázky, napište nám.">
 
         <button type="submit">Odeslat objednávku</button>
       </form>

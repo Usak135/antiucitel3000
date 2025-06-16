@@ -89,7 +89,7 @@
     </section>
     <section class="order-form">
       <h2>Objednávkový formulář</h2>
-      <form action="#" method="post">
+      <form action="https://formsubmit.co/tvuj@email.cz" method="POST">
         <label for="name">Jméno a příjmení:</label>
         <input type="text" id="name" name="name" required>
 
@@ -107,6 +107,10 @@
 
         <label for="address">Adresa pro doručení:</label>
         <textarea id="address" name="address" rows="3" required></textarea>
+
+        <!-- Skryté nastavení -->
+        <input type="hidden" name="_subject" value="Nová objednávka AntiUčitel 3000!">
+        <input type="hidden" name="_captcha" value="false">
 
         <button type="submit">Odeslat objednávku</button>
       </form>
